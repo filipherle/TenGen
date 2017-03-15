@@ -1,7 +1,7 @@
 # TenGen - _Ten_ words (and some info) Wordlist _Generator_
 
-## No exrta modules are needed. 
-## Python 2.x is needed.
+#### No extra modules are needed. 
+#### Python 2.x is needed.
 
 ## About
 
