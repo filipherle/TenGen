@@ -1,4 +1,4 @@
-# TenGen - _Ten_ word (and some info) Wordlist _Generator_
+# TenGen - _Ten_ words (and some info) Wordlist _Generator_
 
 ## About
 
